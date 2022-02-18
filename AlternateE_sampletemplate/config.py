@@ -1,0 +1,2 @@
+cloudM = "youruserid"
+cloudMpassword = "yourpassword!"
